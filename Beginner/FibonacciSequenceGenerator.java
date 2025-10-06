@@ -17,7 +17,7 @@ public class FibonacciSequenceGenerator {
         int a = 0, b = 1;
 
         System.out.println("Your Fibonacci sequence is:");
-        for (int i = 0; i <= n; i++) {
+        for (int i = 0; i < n; i++) {
             System.out.print(a + " "); // Print the current term
             int next = a + b; // Calculate the next term
             a = b; // Update a to the next term
