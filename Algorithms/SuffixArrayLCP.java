@@ -81,3 +81,11 @@ public class SuffixArrayLCP {
         System.out.println("Distinct substrings: " + countDistinctSubstrings(s));
     }
 }
+
+/*
+How to compile and run:
+ * javac SuffixArrayLCP.java
+java SuffixArrayLCP
+# or with custom input
+java SuffixArrayLCP "abracadabra"
+ */
