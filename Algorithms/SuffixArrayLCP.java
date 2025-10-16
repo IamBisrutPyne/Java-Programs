@@ -1,3 +1,16 @@
+/*
+ * File: AStar.java
+ * Author: Shashank S
+ * Description: Description: 
+ * This program constructs a Suffix Array and computes the Longest Common Prefix (LCP) array for a given string.
+ * The Suffix Array provides an efficient way to represent all suffixes of a string in lexicographical order,
+ * while the LCP array stores the length of the longest common prefix between consecutive suffixes.
+ * These data structures are fundamental for solving problems in string processing such as pattern matching,
+ * substring queries, and text compression algorithms.
+ * Date: 2025-10-16
+ */
+
+
 import java.util.*;
 
 public class SuffixArrayLCP {
