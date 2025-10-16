@@ -1,4 +1,10 @@
-// src/graph/a_star/AStar.java
+/*
+ * File: AStar.java
+ * Author: Shashank S
+ * Description: Implementation of the A* pathfinding algorithm.
+ * Date: 2025-10-15
+ */
+
 
 import java.util.*;
 
